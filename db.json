@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "title": "Product 1",
+      "price": "1200",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg",
+      "id": 1
+    }
+  ]
+}
